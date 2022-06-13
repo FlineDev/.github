@@ -9,12 +9,12 @@ assignees: ''
 
 ## Problem Statement
 
-<!-- describe the problem you want to solve -->
+<!-- Describe the problem you want to solve: -->
 
 
 ## Suggested Solution
 
-<!-- describe how a possible solution could work -->
+<!-- Describe how a possible solution could work: -->
 
 
 ## Additional Considerations
