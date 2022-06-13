@@ -1,6 +1,6 @@
 ---
 name: Request a feature
-about: Select this to request new functionality the app doesn't provide yet
+about: Select this to request new functionality that isn't provided yet
 title: '[Feat] <your feature title>'
 labels: Feature Request
 assignees: ''
