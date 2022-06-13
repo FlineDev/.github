@@ -9,7 +9,7 @@ assignees: ''
 
 ## Steps to Reproduce:
 
-<!-- describe what you did to cause the issue -->
+<!-- Describe what you did to cause the issue: -->
 
 1. <Step 1>
 1. <Step 2>
@@ -18,12 +18,12 @@ assignees: ''
 
 ## Expected Behavior:
 
-<!-- describe what you expected to happen -->
+<!-- Describe what you expected to happen: -->
 
 
 ## Current Behavior:
 
-<!-- describe what really did happen -->
+<!-- Describe what really did happen: -->
 
 
 ## Environment
@@ -31,7 +31,7 @@ assignees: ''
 <details>
 <summary>Show environment details</summary>
 
-<!-- copy & paste the environment details from the apps About page (⌘+I) -->
+<!-- Copy & paste the environment details from the apps About page (⌘+I) here: -->
 
 
 </details>
