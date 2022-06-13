@@ -1,22 +1,23 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: enhancement
+name: Request a feature
+about: Select this to request new functionality the app doesn't provide yet
+title: '[Feat] <your feature title>'
+labels: Feature Request
 assignees: ''
 
 ---
 
 ## Problem Statement
 
+<!-- describe the problem you want to solve -->
+
 
 ## Suggested Solution
 
+<!-- describe how a possible solution could work -->
 
-## Example Usage
 
+## Additional Considerations
 
-## Possible Involvement
+<!-- Is there anything else to be considered for this feature? -->
 
- - I could help with implementation: 
- - I could help with testing:
